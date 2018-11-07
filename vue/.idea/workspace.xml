@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32044e0b-1a6a-4034-887c-e446e5668c96" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MemberContainer.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/src/components/tabbar/MemberContainer.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1728">
+              <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Install.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/src/components/login/Install.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+              <folding>
+                <element signature="e#41#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/src/components/login/Login.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Personal.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/src/components/login/Personal.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="router.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/src/router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project/src/axios/index.js" />
+        <option value="$PROJECT_DIR$/node/app.js" />
+        <option value="$PROJECT_DIR$/project/src/components/login/login.vue" />
+        <option value="$PROJECT_DIR$/node/router/users.js" />
+        <option value="$PROJECT_DIR$/node/router/recomlist.js" />
+        <option value="$PROJECT_DIR$/project/src/router.js" />
+        <option value="$PROJECT_DIR$/project/src/components/login/Login.vue" />
+        <option value="$PROJECT_DIR$/project/src/components/recom/ComDetails.vue" />
+        <option value="$PROJECT_DIR$/project/src/components/login/Personal.vue" />
+        <option value="$PROJECT_DIR$/project/src/components/tabbar/MemberContainer.vue" />
+        <option value="$PROJECT_DIR$/project/src/components/tabbar/RecommendContainer.vue" />
+        <option value="$PROJECT_DIR$/project/src/components/tabbar/ShopContainer.vue" />
+        <option value="$PROJECT_DIR$/project/src/components/tabbar/HomeContainer.vue" />
+        <option value="$PROJECT_DIR$/project/src/main.js" />
+        <option value="$PROJECT_DIR$/project/src/components/login/Install.vue" />
+        <option value="$PROJECT_DIR$/project/src/App.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/project/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/mui-master/package.json" />
+      <path value="$PROJECT_DIR$/mui-master/plugin/picker/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_array-flatten@1.1.1@array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/raw-body/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/raw-body/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/raw-body/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/type-is/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/type-is/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_body-parser@1.18.2@body-parser/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_content-disposition@0.5.2@content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_content-type@1.0.4@content-type/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_depd@1.1.2@depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/accepts/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/accepts/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/raw-body/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/raw-body/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/raw-body/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/type-is/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/finalhandler/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/finalhandler/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/finalhandler/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/finalhandler/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/finalhandler/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/finalhandler/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/finalhandler/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/finalhandler/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/finalhandler/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/proxy-addr/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/proxy-addr/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/type-is/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/type-is/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_express@4.16.3@express/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_finalhandler@1.1.1@finalhandler/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_finalhandler@1.1.1@finalhandler/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_finalhandler@1.1.1@finalhandler/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_finalhandler@1.1.1@finalhandler/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_finalhandler@1.1.1@finalhandler/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_finalhandler@1.1.1@finalhandler/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_finalhandler@1.1.1@finalhandler/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_finalhandler@1.1.1@finalhandler/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_finalhandler@1.1.1@finalhandler/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_finalhandler@1.1.1@finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_forwarded@0.1.2@forwarded/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_http-errors@1.6.2@http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_http-errors@1.6.2@http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_http-errors@1.6.2@http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_http-errors@1.6.2@http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_http-errors@1.6.2@http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_iconv-lite@0.4.19@iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_ipaddr.js@1.8.0@ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_methods@1.1.2@methods/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_mime-db@1.36.0@mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_mime-types@2.1.20@mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_mime-types@2.1.20@mime-types/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_negotiator@0.6.1@negotiator/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_object-assign@4.1.1@object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_on-finished@2.3.0@on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_on-finished@2.3.0@on-finished/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_parseurl@1.3.2@parseurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_proxy-addr@2.0.4@proxy-addr/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_proxy-addr@2.0.4@proxy-addr/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_proxy-addr@2.0.4@proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_qs@6.5.1@qs/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_raw-body@2.3.2@raw-body/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_raw-body@2.3.2@raw-body/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_raw-body@2.3.2@raw-body/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_raw-body@2.3.2@raw-body/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_raw-body@2.3.2@raw-body/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_raw-body@2.3.2@raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_raw-body@2.3.2@raw-body/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_raw-body@2.3.2@raw-body/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_raw-body@2.3.2@raw-body/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/string_decoder/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_readable-stream@2.3.6@readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_safe-buffer@5.1.1@safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_safe-buffer@5.1.2@safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_send@0.16.2@send/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_serve-static@1.13.2@serve-static/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_setprototypeof@1.0.3@setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_sqlstring@2.3.1@sqlstring/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_statuses@1.5.0@statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_string_decoder@1.1.1@string_decoder/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_string_decoder@1.1.1@string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/_utils-merge@1.0.1@utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/accepts/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/accepts/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/bignumber.js/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/cookie-parser/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/cors/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/cors/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/cors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/crc/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/diff/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express-session/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express-session/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express-session/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express-session/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express-session/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express-session/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express-session/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express-session/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/serve-static/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/eyes/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/node_modules/bignumber.js/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/node_modules/readable-stream/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/node_modules/readable-stream/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/node_modules/readable-stream/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/node_modules/readable-stream/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/node_modules/readable-stream/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/node_modules/readable-stream/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/node_modules/readable-stream/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/node_modules/sqlstring/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mysql/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/random-bytes/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/serve-static/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/serve-static/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/session/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/type-is/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/type-is/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/uid-safe/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/vows/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/project/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="578" />
+    <option name="y" value="5" />
+    <option name="width" value="1356" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="node" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="node" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="recom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="tabbar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="mui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="mui" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/node" />
+    <configuration name="users.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="users.js" working-dir="$PROJECT_DIR$/node/router" />
+    <list>
+      <item itemvalue="Node.js.app.js" />
+      <item itemvalue="Node.js.users.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+        <item itemvalue="Node.js.users.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32044e0b-1a6a-4034-887c-e446e5668c96" name="Default" comment="" />
+      <created>1538023686943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538023686943</updated>
+      <workItem from="1538023701144" duration="253000" />
+      <workItem from="1538109755824" duration="6277000" />
+      <workItem from="1538146986918" duration="499000" />
+      <workItem from="1538152609674" duration="447000" />
+      <workItem from="1538184917142" duration="7282000" />
+      <workItem from="1538989469576" duration="3156000" />
+      <workItem from="1539047693947" duration="13401000" />
+      <workItem from="1539068104902" duration="78000" />
+      <workItem from="1539068982942" duration="8318000" />
+      <workItem from="1539137453061" duration="17627000" />
+      <workItem from="1539171655650" duration="177000" />
+      <workItem from="1539191930345" duration="433000" />
+      <workItem from="1539220258212" duration="28933000" />
+      <workItem from="1539330652768" duration="390000" />
+      <workItem from="1539332045421" duration="632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="87903000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="578" y="5" width="1356" height="1039" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24598071" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3296582" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2458655" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33958104" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39911798" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/project/src/main.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/project/src/components/tabbar/HomeContainer.vue</url>
+          <line>6</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/project/src/components/tabbar/RecommendContainer.vue</url>
+          <line>6</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/project/src/components/tabbar/ShopContainer.vue</url>
+          <line>6</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="18" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node/router/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="50" lean-forward="true" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/tabbar/MemberContainer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/login/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="51" column="61" lean-forward="true" selection-start-line="51" selection-start-column="61" selection-end-line="51" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/tabbar/HomeContainer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2079">
+          <caret line="77" column="9" lean-forward="true" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/tabbar/RecommendContainer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/tabbar/HomeContainer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/tabbar/HomeContainer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/tabbar/HomeContainer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
+          <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/tabbar/SearchContainer.vue" />
+    <entry file="file://$PROJECT_DIR$/project/src/axios/index.js" />
+    <entry file="file://$PROJECT_DIR$/../3/xz/public/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="2" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../3/xz/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/img/banner1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../3/4Vue/day03/5_axios.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/router/cartlist.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/router/imagelist.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/router/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/router/recomlist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="6" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/recom/ComDetails.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/tabbar/ShopContainer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/tabbar/HomeContainer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="78" column="18" lean-forward="true" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/tabbar/RecommendContainer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/login/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/login/Personal.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/lib/mui/css/mui.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/tabbar/MemberContainer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding>
+            <element signature="e#41#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/components/login/Install.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
