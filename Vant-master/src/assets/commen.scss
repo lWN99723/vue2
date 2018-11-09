@@ -1,0 +1,26 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    // box-sizing:border-box;
+}
+.content {
+    flex-grow: 1;
+    overflow-y: scroll;
+    background: #f8f8f8;
+    // overflow-x: hidden
+}
+
+.wrap {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
+#app{
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
